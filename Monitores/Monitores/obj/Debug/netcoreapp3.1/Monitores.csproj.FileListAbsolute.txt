@@ -1,0 +1,8 @@
+C:\Users\DarkSlayer\source\repos\Monitores\Monitores\obj\Debug\netcoreapp3.1\Monitores.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\Monitores\Monitores\obj\Debug\netcoreapp3.1\Monitores.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\Monitores\Monitores\obj\Debug\netcoreapp3.1\Monitores.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\source\repos\Monitores\Monitores\bin\Debug\netcoreapp3.1\Monitores.deps.json
+C:\Users\DarkSlayer\source\repos\Monitores\Monitores\bin\Debug\netcoreapp3.1\Monitores.dll
+C:\Users\DarkSlayer\source\repos\Monitores\Monitores\bin\Debug\netcoreapp3.1\Monitores.pdb
+C:\Users\DarkSlayer\source\repos\Monitores\Monitores\obj\Debug\netcoreapp3.1\Monitores.dll
+C:\Users\DarkSlayer\source\repos\Monitores\Monitores\obj\Debug\netcoreapp3.1\Monitores.pdb

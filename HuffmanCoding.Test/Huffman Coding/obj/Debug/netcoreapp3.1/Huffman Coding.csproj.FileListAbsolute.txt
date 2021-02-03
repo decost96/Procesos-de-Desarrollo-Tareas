@@ -1,0 +1,3 @@
+C:\Users\DarkSlayer\source\repos\HuffmanCoding.Test\Huffman Coding\obj\Debug\netcoreapp3.1\Huffman Coding.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\HuffmanCoding.Test\Huffman Coding\obj\Debug\netcoreapp3.1\Huffman Coding.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\HuffmanCoding.Test\Huffman Coding\obj\Debug\netcoreapp3.1\Huffman Coding.csproj.CoreCompileInputs.cache

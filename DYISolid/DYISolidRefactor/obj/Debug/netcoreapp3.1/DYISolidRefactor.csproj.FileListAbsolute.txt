@@ -1,0 +1,13 @@
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\bin\Debug\netcoreapp3.1\DYISolidRefactor.exe
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\bin\Debug\netcoreapp3.1\DYISolidRefactor.deps.json
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\bin\Debug\netcoreapp3.1\DYISolidRefactor.runtimeconfig.json
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\bin\Debug\netcoreapp3.1\DYISolidRefactor.runtimeconfig.dev.json
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\bin\Debug\netcoreapp3.1\DYISolidRefactor.dll
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\bin\Debug\netcoreapp3.1\DYISolidRefactor.pdb
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\obj\Debug\netcoreapp3.1\DYISolidRefactor.csprojAssemblyReference.cache
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\obj\Debug\netcoreapp3.1\DYISolidRefactor.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\obj\Debug\netcoreapp3.1\DYISolidRefactor.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\obj\Debug\netcoreapp3.1\DYISolidRefactor.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\obj\Debug\netcoreapp3.1\DYISolidRefactor.dll
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\obj\Debug\netcoreapp3.1\DYISolidRefactor.pdb
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolidRefactor\obj\Debug\netcoreapp3.1\DYISolidRefactor.genruntimeconfig.cache

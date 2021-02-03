@@ -1,0 +1,12 @@
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.exe
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.deps.json
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.runtimeconfig.json
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.runtimeconfig.dev.json
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.dll
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.pdb
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.dll
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.pdb
+C:\Users\DarkSlayer\source\repos\ArbolBinario\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.genruntimeconfig.cache

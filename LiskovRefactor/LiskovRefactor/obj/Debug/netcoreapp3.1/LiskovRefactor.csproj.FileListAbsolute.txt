@@ -1,0 +1,4 @@
+C:\Users\DarkSlayer\source\repos\LiskovRefactor\LiskovRefactor\obj\Debug\netcoreapp3.1\LiskovRefactor.csprojAssemblyReference.cache
+C:\Users\DarkSlayer\source\repos\LiskovRefactor\LiskovRefactor\obj\Debug\netcoreapp3.1\LiskovRefactor.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\LiskovRefactor\LiskovRefactor\obj\Debug\netcoreapp3.1\LiskovRefactor.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\LiskovRefactor\LiskovRefactor\obj\Debug\netcoreapp3.1\LiskovRefactor.csproj.CoreCompileInputs.cache

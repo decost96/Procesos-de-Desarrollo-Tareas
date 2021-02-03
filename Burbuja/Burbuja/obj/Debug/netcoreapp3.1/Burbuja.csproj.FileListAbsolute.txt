@@ -1,0 +1,13 @@
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\bin\Debug\netcoreapp3.1\Burbuja.exe
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\bin\Debug\netcoreapp3.1\Burbuja.deps.json
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\bin\Debug\netcoreapp3.1\Burbuja.runtimeconfig.json
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\bin\Debug\netcoreapp3.1\Burbuja.runtimeconfig.dev.json
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\bin\Debug\netcoreapp3.1\Burbuja.dll
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\bin\Debug\netcoreapp3.1\Burbuja.pdb
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\obj\Debug\netcoreapp3.1\Burbuja.csprojAssemblyReference.cache
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\obj\Debug\netcoreapp3.1\Burbuja.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\obj\Debug\netcoreapp3.1\Burbuja.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\obj\Debug\netcoreapp3.1\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\obj\Debug\netcoreapp3.1\Burbuja.dll
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\obj\Debug\netcoreapp3.1\Burbuja.pdb
+C:\Users\DarkSlayer\source\repos\Burbuja\Burbuja\obj\Debug\netcoreapp3.1\Burbuja.genruntimeconfig.cache

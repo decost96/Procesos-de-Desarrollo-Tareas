@@ -1,0 +1,13 @@
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\bin\Debug\netcoreapp3.1\ConsoleAppOcp.exe
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\bin\Debug\netcoreapp3.1\ConsoleAppOcp.deps.json
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\bin\Debug\netcoreapp3.1\ConsoleAppOcp.runtimeconfig.json
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\bin\Debug\netcoreapp3.1\ConsoleAppOcp.runtimeconfig.dev.json
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\bin\Debug\netcoreapp3.1\ConsoleAppOcp.dll
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\bin\Debug\netcoreapp3.1\ConsoleAppOcp.pdb
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\obj\Debug\netcoreapp3.1\ConsoleAppOcp.csprojAssemblyReference.cache
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\obj\Debug\netcoreapp3.1\ConsoleAppOcp.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\obj\Debug\netcoreapp3.1\ConsoleAppOcp.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\obj\Debug\netcoreapp3.1\ConsoleAppOcp.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\obj\Debug\netcoreapp3.1\ConsoleAppOcp.dll
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\obj\Debug\netcoreapp3.1\ConsoleAppOcp.pdb
+C:\Users\DarkSlayer\source\repos\ConsoleAppOcp\ConsoleAppOcp\obj\Debug\netcoreapp3.1\ConsoleAppOcp.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.exe
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.deps.json
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.json
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.dev.json
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.dll
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.pdb
+C:\Users\DarkSlayer\source\repos\ShellSort\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Node.cs", "Node.cs\Node.cs.csproj", "{A12B5ED3-8FE9-4039-9263-6A31BE4A1CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A12B5ED3-8FE9-4039-9263-6A31BE4A1CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12B5ED3-8FE9-4039-9263-6A31BE4A1CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12B5ED3-8FE9-4039-9263-6A31BE4A1CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12B5ED3-8FE9-4039-9263-6A31BE4A1CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A1BDCA-596E-4BD3-BDDC-0A1E59B87CBB}
+	EndGlobalSection
+EndGlobal

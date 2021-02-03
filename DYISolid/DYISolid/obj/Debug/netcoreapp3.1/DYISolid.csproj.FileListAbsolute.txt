@@ -1,0 +1,12 @@
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\bin\Debug\netcoreapp3.1\DYISolid.exe
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\bin\Debug\netcoreapp3.1\DYISolid.deps.json
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\bin\Debug\netcoreapp3.1\DYISolid.runtimeconfig.json
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\bin\Debug\netcoreapp3.1\DYISolid.runtimeconfig.dev.json
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\bin\Debug\netcoreapp3.1\DYISolid.dll
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\bin\Debug\netcoreapp3.1\DYISolid.pdb
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\obj\Debug\netcoreapp3.1\DYISolid.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\obj\Debug\netcoreapp3.1\DYISolid.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\obj\Debug\netcoreapp3.1\DYISolid.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\obj\Debug\netcoreapp3.1\DYISolid.dll
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\obj\Debug\netcoreapp3.1\DYISolid.pdb
+C:\Users\DarkSlayer\source\repos\DYISolid\DYISolid\obj\Debug\netcoreapp3.1\DYISolid.genruntimeconfig.cache

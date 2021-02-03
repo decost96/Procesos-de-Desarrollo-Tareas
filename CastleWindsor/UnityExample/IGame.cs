@@ -1,0 +1,7 @@
+﻿namespace UnityExample
+{
+    interface IGame
+    {
+
+    }
+}

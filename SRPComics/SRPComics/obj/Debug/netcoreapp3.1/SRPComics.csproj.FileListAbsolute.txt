@@ -1,0 +1,8 @@
+C:\Users\DarkSlayer\source\repos\SRPComics\SRPComics\bin\Debug\netcoreapp3.1\SRPComics.deps.json
+C:\Users\DarkSlayer\source\repos\SRPComics\SRPComics\bin\Debug\netcoreapp3.1\SRPComics.dll
+C:\Users\DarkSlayer\source\repos\SRPComics\SRPComics\bin\Debug\netcoreapp3.1\SRPComics.pdb
+C:\Users\DarkSlayer\source\repos\SRPComics\SRPComics\obj\Debug\netcoreapp3.1\SRPComics.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\SRPComics\SRPComics\obj\Debug\netcoreapp3.1\SRPComics.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\SRPComics\SRPComics\obj\Debug\netcoreapp3.1\SRPComics.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\source\repos\SRPComics\SRPComics\obj\Debug\netcoreapp3.1\SRPComics.dll
+C:\Users\DarkSlayer\source\repos\SRPComics\SRPComics\obj\Debug\netcoreapp3.1\SRPComics.pdb

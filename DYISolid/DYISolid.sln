@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYISolid", "DYISolid\DYISolid.csproj", "{4FAF9567-439E-422A-AB3C-5D949963F0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYISolidRefactor", "DYISolidRefactor\DYISolidRefactor.csproj", "{EFD21204-98D9-4D8D-887F-F85DD5308A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FAF9567-439E-422A-AB3C-5D949963F0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAF9567-439E-422A-AB3C-5D949963F0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAF9567-439E-422A-AB3C-5D949963F0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAF9567-439E-422A-AB3C-5D949963F0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD21204-98D9-4D8D-887F-F85DD5308A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD21204-98D9-4D8D-887F-F85DD5308A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD21204-98D9-4D8D-887F-F85DD5308A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD21204-98D9-4D8D-887F-F85DD5308A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB241784-B49A-4260-A466-DE3F7575BA18}
+	EndGlobalSection
+EndGlobal

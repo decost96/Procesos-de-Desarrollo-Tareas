@@ -1,0 +1,4 @@
+C:\Users\DarkSlayer\source\repos\IOCSolid\IOCSolid\obj\Debug\netcoreapp3.1\IOCSolid.csprojAssemblyReference.cache
+C:\Users\DarkSlayer\source\repos\IOCSolid\IOCSolid\obj\Debug\netcoreapp3.1\IOCSolid.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\IOCSolid\IOCSolid\obj\Debug\netcoreapp3.1\IOCSolid.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\IOCSolid\IOCSolid\obj\Debug\netcoreapp3.1\IOCSolid.csproj.CoreCompileInputs.cache

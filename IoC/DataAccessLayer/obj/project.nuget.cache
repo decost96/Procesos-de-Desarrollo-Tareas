@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "zx0mUGwc6ZFqEaqZLH8u6ccWS0rprulAxdfChfWHuZjMQaDkMA9OQ9CVcuxcT6TL/icwES9rGyZJn/BlrHDRFA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\DarkSlayer\\source\\repos\\IoC\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DarkSlayer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DarkSlayer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Entity no es compatible con netstandard2.0 (.NETStandard,Version=v2.0). El proyecto Entity admite: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Entity",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

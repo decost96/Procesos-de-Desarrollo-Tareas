@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3AEs3VZb5NdMQLf4gsko6zeH5BuYIPht1+smVX2xbFeUatzSCRqw5ZzyplbtOaVPQqiZkQPg0i5I4YBlYgY2ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DarkSlayer\\source\\repos\\IoC\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DarkSlayer\\.nuget\\packages\\system.composition.attributedmodel\\5.0.1\\system.composition.attributedmodel.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

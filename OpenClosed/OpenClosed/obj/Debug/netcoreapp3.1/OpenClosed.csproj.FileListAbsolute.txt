@@ -1,0 +1,13 @@
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.csprojAssemblyReference.cache
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.AssemblyInfoInputs.cache
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.AssemblyInfo.cs
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.exe
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.deps.json
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.runtimeconfig.json
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.runtimeconfig.dev.json
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.dll
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.pdb
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.dll
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.pdb
+C:\Users\DarkSlayer\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.genruntimeconfig.cache
